@@ -1,5 +1,0 @@
-branch test
-
-branch master
-
-This is master branch.
