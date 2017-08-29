@@ -1,3 +1,5 @@
 branch test
 
-merge
+branch master
+
+This is master branch.
